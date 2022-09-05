@@ -1,1 +1,2 @@
-안녕하십니까 교수님 202014099학번 김신아입니다.
+안녕하십니까 교수님 202014099학번 김신아입니다. 과제 제출하겠습니다. 
+https://github.com/sinaskim/git_test1/commits/main
